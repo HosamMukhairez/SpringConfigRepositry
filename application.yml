@@ -1,7 +1,7 @@
 my:
 	greeting: Hellor World from config server
 	list:
-		values: One, Two, Three, Four, Five
+	values: One, Two, Three, Four, Five
 		
 		
 db:
