@@ -1,0 +1,9 @@
+my:
+   greeting: Hello Worl from config server
+   list:
+      values: One, Two, Three, Four, Five
+	  
+db:
+   conection: connection-string-here-from-config-server
+   host: localhost
+   port: 1200   
