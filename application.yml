@@ -6,5 +6,5 @@ db:
    conection: connection-string-here-from-config-server
    host: localhost
    port: 1200
-message: Message From Server (HOSAM - GITHUB)..... NEW NEW
+message: Message From Server (HOSAM - GITHUB)..... NEW NEW * 3
 response: Response From Server (HOSAM - GITHUB) ..... NEW
